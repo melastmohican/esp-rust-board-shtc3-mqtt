@@ -1,0 +1,7 @@
+[esp-rust-board-shtc3-mqtt]
+mqtt_user = "mqtt_user"
+mqtt_pass = "mqtt_pass"
+mqtt_host = "yourpc.local"
+wifi_ssid = "FBI Surveillance Van"
+wifi_psk = "hunter2"
+
